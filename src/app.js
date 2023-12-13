@@ -50,7 +50,7 @@ app.get("/", (req, res) => {
   res.json({
     code: 200,
     message: "success",
-    docs: "https://amvdocs.pages.dev/api/introduction",
+    docs: "https://237coders.site/animeocean-api-doc.html",
   });
 });
 
